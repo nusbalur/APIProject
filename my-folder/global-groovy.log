@@ -1,0 +1,10 @@
+2020-02-29 17:16:49,968 INFO  [log] Status: FAILED, time taken For Testcase to run was:297 ms
+2020-02-29 17:16:50,036 INFO  [log] Number of Test Steps ran:2
+2020-02-29 17:19:10,168 INFO  [log] Status: FINISHED, time taken For Testcase to run was:2698 ms
+2020-02-29 17:19:10,190 INFO  [log] Number of Test Steps ran:6
+2020-02-29 17:21:00,383 INFO  [log] Status: FINISHED, time taken For Testcase to run was:2861 ms
+2020-02-29 17:21:00,394 INFO  [log] Number of Test Steps ran:6
+2020-03-02 17:28:13,693 INFO  [log] Status: FINISHED, time taken For Testcase to run was:2341 ms
+2020-03-02 17:28:13,720 INFO  [log] Number of Test Steps ran:6
+2020-03-02 17:29:40,544 INFO  [log] Status: FINISHED, time taken For Testcase to run was:2422 ms
+2020-03-02 17:29:40,561 INFO  [log] Number of Test Steps ran:6
